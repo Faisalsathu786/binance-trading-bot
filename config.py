@@ -2,8 +2,8 @@
 # Binance Testnet API keys — get from: https://testnet.binancefuture.com
 # Register → API Management → Create Key
 
-API_KEY    = "YOUR_TESTNET_API_KEY"
-API_SECRET = "YOUR_TESTNET_API_SECRET"
+API_KEY    = "i7FDT8uRU3cK2ib6mt0Nz4mQZesgRSBlg9LIwectiocer9dzWfa6yUiwMzvkhslp"
+API_SECRET = "QERzLALrtyF1kfz1TtQl3FcYHDALkdYPYqIZbaX96sBjFq0QP646fH7xEtUFPQlG"
 
 # ─── Mode ────────────────────────────────────────────────────
 TESTNET = True   # True = demo, False = real money
